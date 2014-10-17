@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[usu:home|Door43 (usu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-usu|d43-usu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-usu/archive/master.zip|d43-usu.zip]]
+
+**Recent Changes**
+{{changes>ns = usu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/usu|Ethnologue data]]
+
